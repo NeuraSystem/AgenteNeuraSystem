@@ -1,0 +1,52 @@
+{
+  "conv_6d7fa166": {
+    "document_ids": [
+      "1ac4df99-8ecf-43ca-9bb6-4d045de9bb97"
+    ],
+    "topics": [
+      "precio",
+      "motorola",
+      "modelo_e32"
+    ],
+    "user_message": "¿Cuál es el precio del Motorola E32?",
+    "timestamp": "2025-07-01T00:25:21.015957",
+    "usage_count": 1
+  },
+  "conv_369d302d": {
+    "document_ids": [
+      "1ac4df99-8ecf-43ca-9bb6-4d045de9bb97"
+    ],
+    "topics": [],
+    "user_message": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi",
+    "timestamp": "2025-07-01T00:51:43.320661",
+    "usage_count": 1
+  },
+  "conv_dbc8f75a": {
+    "document_ids": [
+      "d7e5fc5a-5c1d-4f75-90c4-a310fe2a8aa5",
+      "1ac4df99-8ecf-43ca-9bb6-4d045de9bb97"
+    ],
+    "topics": [],
+    "user_message": "health check",
+    "timestamp": "2025-07-01T00:53:13.614246",
+    "usage_count": 1
+  },
+  "conv_21de3f01": {
+    "document_ids": [
+      "1ac4df99-8ecf-43ca-9bb6-4d045de9bb97"
+    ],
+    "topics": [],
+    "user_message": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi",
+    "timestamp": "2025-07-01T01:02:13.673712",
+    "usage_count": 1
+  },
+  "conv_48a54287": {
+    "document_ids": [
+      "1ac4df99-8ecf-43ca-9bb6-4d045de9bb97"
+    ],
+    "topics": [],
+    "user_message": "health check",
+    "timestamp": "2025-07-01T01:03:05.438399",
+    "usage_count": 1
+  }
+}

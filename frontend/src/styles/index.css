@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #0a0a0a;
+    color: #ffffff;
+    overflow: hidden;
+  }
+  
+  #root {
+    height: 100vh;
+    width: 100vw;
+  }
+}
+
+@layer components {
+  .neural-glow {
+    filter: drop-shadow(0 0 10px currentColor);
+  }
+  
+  .glass-panel {
+    @apply bg-black/20 backdrop-blur-md border border-white/10 rounded-lg;
+  }
+  
+  .chat-bubble {
+    @apply px-4 py-2 rounded-lg max-w-xs;
+  }
+  
+  .chat-bubble.user {
+    @apply bg-blue-600 text-white ml-auto;
+  }
+  
+  .chat-bubble.assistant {
+    @apply bg-gray-700 text-white mr-auto;
+  }
+}
+
+@layer utilities {
+  .transition-mode {
+    transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  
+  .neural-pulse {
+    animation: neural-pulse 3s ease-in-out infinite;
+  }
+  
+  .brain-thinking {
+    animation: brain-thinking 1.5s ease-in-out infinite;
+  }
+}
+
+@keyframes neural-pulse {
+  0%, 100% { opacity: 0.6; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.05); }
+}
+
+@keyframes brain-thinking {
+  0%, 100% { filter: brightness(1) hue-rotate(0deg); }
+  33% { filter: brightness(1.2) hue-rotate(120deg); }
+  66% { filter: brightness(0.8) hue-rotate(240deg); }
+}

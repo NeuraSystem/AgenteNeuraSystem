@@ -1,0 +1,165 @@
+# ===== PYTHON =====
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+env/
+ENV/
+chatbot_venv/
+.venv/
+.env/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ===== NODE.JS =====
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build outputs
+dist/
+build/
+
+# ===== AI/ML MODELS =====
+# Large model files and embeddings
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.h5
+*.pkl
+*.pickle
+
+# Sentence transformers cache
+.cache/
+models--*/
+blobs/
+snapshots/
+
+# ===== DATA & STORAGE =====
+# Vector databases
+chromadb/
+*.sqlite3
+*.db
+
+# User data and uploads
+data/documents/uploads/
+data/documents/temp/
+data/documents/processed/
+data/logs/
+data/contextual_memory/
+data/critical_thinking/
+data/proactive/
+
+# Cache directories
+cache/
+.cache/
+__COPILOT_BACKUP_*
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+
+# ===== LOGS =====
+*.log
+server.log
+api.log
+logs/
+
+# ===== TEMP FILES =====
+temp/
+tmp/
+*.tmp
+*.temp
+
+# ===== API KEYS & SECRETS =====
+config.json
+secrets.json
+credentials.json
+.secrets
+api_keys.txt
+
+# ===== IDE & EDITORS =====
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ===== SYSTEM FILES =====
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ===== TESTING =====
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+
+# ===== SPECIFIC TO THIS PROJECT =====
+# Backup files
+historial_procesos.md
+Historial_Procesos.md
+
+# Processing indicators
+*.processing
+*.lock

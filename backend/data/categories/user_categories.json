@@ -1,0 +1,41 @@
+{
+  "base_categories": {
+    "personal": {
+      "display_name": "Personal",
+      "description": "Información personal, gustos, rutinas, hobbies",
+      "enabled": true
+    },
+    "familiar": {
+      "display_name": "Familiar",
+      "description": "Familia, eventos familiares, relaciones familiares",
+      "enabled": true
+    },
+    "social": {
+      "display_name": "Social",
+      "description": "Amigos, eventos sociales, relaciones sociales",
+      "enabled": true
+    }
+  },
+  "optional_categories": {
+    "laboral": {
+      "display_name": "Laboral",
+      "description": "Trabajo, proyectos, colegas, reuniones de trabajo",
+      "enabled": false
+    },
+    "escolar": {
+      "display_name": "Escolar",
+      "description": "Estudios, tareas, exámenes, universidad",
+      "enabled": false
+    },
+    "deportiva": {
+      "display_name": "Deportiva",
+      "description": "Ejercicio, deportes, fitness, rutinas de entrenamiento",
+      "enabled": false
+    },
+    "religion": {
+      "display_name": "Religión",
+      "description": "Creencias, prácticas espirituales, eventos religiosos",
+      "enabled": false
+    }
+  }
+}

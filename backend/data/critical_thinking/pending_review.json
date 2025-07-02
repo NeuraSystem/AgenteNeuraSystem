@@ -1,0 +1,1834 @@
+[
+  {
+    "id": "conversation_1751288281243",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T05:58:01.243980",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T05:58:01.243698",
+      "provider": "anthropic",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751288374767",
+    "content": "hola",
+    "type": "conversation",
+    "timestamp": "2025-06-30T05:59:34.767536",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T05:59:34.767485",
+      "provider": "anthropic",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751288421767",
+    "content": "tienes contexto del documento que te subí?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:00:21.767285",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:00:21.767259",
+      "provider": "anthropic",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751288480044",
+    "content": "¿Qué tipo de archivos puedo subir?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:01:20.044671",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:01:20.044627",
+      "provider": "anthropic",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751288915560",
+    "content": "de que trata el archivo Co_mo_ser_un_estoico_Utilizar_la_filosof.pdf que te subi?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:08:35.560708",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:08:35.560693",
+      "provider": "anthropic",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751288947917",
+    "content": "ya lo leiste?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:09:07.917189",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:09:07.917173",
+      "provider": "anthropic",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751289058935",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:10:58.935439",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:10:58.935348",
+      "provider": "anthropic",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751289109891",
+    "content": "sabes cual es el precio de el modelo e32 en motorola segun el archivo que te subi \nMotorola.xlsx",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:11:49.891315",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:11:49.891292",
+      "provider": "anthropic",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751289165938",
+    "content": "me puedes citar de donde sacaste la informacion ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:12:45.938493",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:12:45.938472",
+      "provider": "anthropic",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751291443108",
+    "content": "Hola, ¿puedes ayudarme con una consulta rápida?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:50:43.108242",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:50:43.108225",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751291484727",
+    "content": "Hola, ¿puedes ayudarme con una consulta rápida?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:51:24.727563",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:51:24.727543",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751291485811",
+    "content": "Claro, con gusto. ¿En qué puedo ayudarte?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:51:25.811809",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:51:25.811790",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "Hola, ¿puedes ayudarme con una consulta rápida?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751291518555",
+    "content": "¿Qué es la inteligencia artificial?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:51:58.555312",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:51:58.555266",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751291579299",
+    "content": "¿Cuál es el precio del modelo e32 según el archivo que tengo subido?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:52:59.299742",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:52:59.299724",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751291583020",
+    "content": "Lo siento, pero no veo ningún archivo adjunto o documento subido en nuestra conversación. Sin tener acceso a los documentos relevantes, no puedo encontrar información sobre el precio del modelo e32. Si puedes proporcionarme el archivo o documento donde se menciona ese modelo, con gusto revisaré los detalles y te informaré sobre el precio. Por favor, sube o envía el archivo correspondiente y con mucho gusto intentaré ayudarte.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:53:03.020845",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:53:03.020830",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "¿Cuál es el precio del modelo e32 según el archivo que tengo subido?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751291603724",
+    "content": "¿De qué trata el archivo test_document.txt que subí?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:53:23.724970",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:53:23.724953",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751291627306",
+    "content": "¿Qué información hay sobre Motorola?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:53:47.306527",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:53:47.306513",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751291628984",
+    "content": "Lo siento, pero no tengo acceso a ningún documento o información sobre Motorola en este momento. Sin tener un archivo o contexto específico proporcionado, no puedo dar detalles sobre Motorola. Si pudieras compartir algún documento o información relevante, con gusto revisaría los datos y te respondería con la información que encuentre. Pero en este punto, sin tener nada que revisar, no puedo proporcionar detalles sobre Motorola. Por favor, comparte los documentos o contexto que tengas y con mucho gusto intentaré ayudarte.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T06:53:48.984779",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T06:53:48.984765",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "¿Qué información hay sobre Motorola?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751294475300",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T07:41:15.300977",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T07:41:15.300720",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751294530038",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T07:42:10.038098",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T07:42:10.038082",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751294601038",
+    "content": "te subi un docuemnto me puedes da run resumen de 50 palabras",
+    "type": "conversation",
+    "timestamp": "2025-06-30T07:43:21.038986",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T07:43:21.038972",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751295079519",
+    "content": "¿Hola, qué tal? Buenas tardes.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T07:51:19.519555",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T07:51:19.519536",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751295080420",
+    "content": "Buenas tardes.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T07:51:20.420676",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T07:51:20.420651",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "¿Hola, qué tal? Buenas tardes."
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751295182905",
+    "content": "si lo subi su nombre es Co_mo_ser_un_estoico_Utilizar_la_filosof.pdf",
+    "type": "conversation",
+    "timestamp": "2025-06-30T07:53:02.905690",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T07:53:02.905674",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751298589072",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T08:49:49.072584",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T08:49:49.072444",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751298590925",
+    "content": "No encuentro información sobre un \"health check\" en los documentos disponibles. ¿Puedes proporcionar más detalles sobre lo que estás buscando?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T08:49:50.925322",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T08:49:50.925266",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "health check"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751298609504",
+    "content": "hola",
+    "type": "conversation",
+    "timestamp": "2025-06-30T08:50:09.504289",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T08:50:09.504276",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751298611262",
+    "content": "Hola, ¿en qué puedo ayudarte?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T08:50:11.262264",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T08:50:11.262248",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "hola"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751298638439",
+    "content": "dame un resumen de 50 palabras de las 3 primeras paginas del archivo en pdf que te subi",
+    "type": "conversation",
+    "timestamp": "2025-06-30T08:50:38.439657",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T08:50:38.439634",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751298640439",
+    "content": "Lo siento, pero no veo que hayas subido ningún archivo PDF. Si me proporcionas el archivo, puedo hacer un resumen de las primeras 3 páginas en aproximadamente 50 palabras. Por favor, envíame el archivo PDF y con gusto realizaré el resumen.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T08:50:40.439448",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T08:50:40.439424",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "dame un resumen de 50 palabras de las 3 primeras paginas del archivo en pdf que te subi"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751299189507",
+    "content": "¿Qué dice el documento sobre el estoicismo y las emociones?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T08:59:49.507712",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T08:59:49.507665",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751299191393",
+    "content": "No encuentro ningún documento sobre el estoicismo y las emociones en nuestro historial de conversación. Si pudieras proporcionarme el documento específico, con gusto revisaría el contenido y te brindaría un resumen de lo que dice sobre ese tema. Sin tener acceso al documento, no puedo dar una respuesta detallada. Por favor, comparte el archivo y con mucho gusto analizaré la información.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T08:59:51.393913",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T08:59:51.393884",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "¿Qué dice el documento sobre el estoicismo y las emociones?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751299405879",
+    "content": "¿Qué dice sobre el estoicismo y las emociones?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T09:03:25.879653",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T09:03:25.879637",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751304055980",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:20:55.980731",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:20:55.980476",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751304169246",
+    "content": "dame un resumen de 50 palabrs del pdf que te acabo de subir",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:22:49.246298",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:22:49.246281",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751304170762",
+    "content": "Lo siento, pero no has subido ningún PDF para que pueda analizarlo. Si me envías el documento, con gusto haré un resumen de 50 palabras sobre su contenido. Por favor, comparte el archivo y estaré encantado de revisarlo y proporcionarte un breve resumen. Avísame cuando hayas cargado el PDF.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:22:50.762935",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:22:50.762908",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "dame un resumen de 50 palabrs del pdf que te acabo de subir"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751305394549",
+    "content": "¿Qué dice el documento sobre el estoicismo y las emociones?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:43:14.549394",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:43:14.549376",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751305477705",
+    "content": "Dame un resumen de 50 palabras del PDF que subí",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:44:37.705540",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:44:37.705530",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751305712554",
+    "content": "de que habla el pdf que subi. dame 5 puntos importantes",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:48:32.554209",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:48:32.554189",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751305747584",
+    "content": "hablame un poco mas del punto 4",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:49:07.584091",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:49:07.584074",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751306234584",
+    "content": "¿Cuál es el precio del Motorola E32?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:57:14.584232",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:57:14.583904",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751306335764",
+    "content": "¿Cuál es el precio del Motorola E32 según el archivo Motorola.xlsx?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:58:55.764477",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:58:55.764452",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751306337016",
+    "content": "Según la información proporcionada en el archivo Motorola.xlsx, el precio del Motorola E32 es de 1400.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:58:57.016375",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:58:57.016327",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "¿Cuál es el precio del Motorola E32 según el archivo Motorola.xlsx?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751306379735",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T10:59:39.735097",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T10:59:39.735071",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751306426773",
+    "content": "precio del motorola e 30 ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T11:00:26.773752",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T11:00:26.773740",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751306428188",
+    "content": "Según la información proporcionada en los documentos, no encuentro el precio del Motorola E30. Los documentos se enfocan en temas de filosofía estoica y no contienen información sobre precios de teléfonos Motorola.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T11:00:28.188483",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T11:00:28.188461",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "precio del motorola e 30 ?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751306465886",
+    "content": "subi un documento xlsx revisa el precio",
+    "type": "conversation",
+    "timestamp": "2025-06-30T11:01:05.886923",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T11:01:05.886912",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751306468098",
+    "content": "Según la información proporcionada en el contexto, no encuentro el precio del Motorola E30. Los documentos se enfocan en temas de filosofía estoica y no contienen información sobre precios de teléfonos Motorola.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T11:01:08.098418",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T11:01:08.098392",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "subi un documento xlsx revisa el precio"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751307998114",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T11:26:38.114771",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T11:26:38.114743",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751308033382",
+    "content": "cual es el precio del motorola e5 plus",
+    "type": "conversation",
+    "timestamp": "2025-06-30T11:27:13.382578",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T11:27:13.382564",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751308034706",
+    "content": "Lamento informar que en el contexto proporcionado no hay ninguna información sobre el precio del Motorola E5 Plus. Los documentos tratan sobre la filosofía estoica y no contienen datos específicos sobre este modelo de teléfono móvil. Por lo tanto, no puedo proporcionar una respuesta al precio del Motorola E5 Plus con la información disponible.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T11:27:14.706760",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T11:27:14.706718",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cual es el precio del motorola e5 plus"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751326723392",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T16:38:43.392422",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T16:38:43.392362",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751326724467",
+    "content": "Lo siento, no encuentro información sobre un \"health check\" en los documentos disponibles. ¿Podrías proporcionar más detalles sobre lo que estás buscando?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T16:38:44.467429",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T16:38:44.467407",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "health check"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751326767734",
+    "content": "cual es el precio del modelo e22 ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T16:39:27.734048",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T16:39:27.734020",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751326768680",
+    "content": "No encuentro información sobre el precio del modelo e22 en los documentos disponibles. Lo siento, no puedo proporcionarte esa información.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T16:39:28.680558",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T16:39:28.680386",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cual es el precio del modelo e22 ?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751326800017",
+    "content": "y del E30 ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T16:40:00.017988",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T16:40:00.017960",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751326800917",
+    "content": "Tampoco encuentro información sobre el precio del modelo E30 en los documentos proporcionados. No tengo acceso a esos datos.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T16:40:00.917741",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T16:40:00.917720",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "y del E30 ?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328218804",
+    "content": "¿Cuál es el precio del iPhone 14?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:03:38.804160",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:03:38.804143",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328478312",
+    "content": "¿Cuál es el precio del iPhone 14?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:07:58.312231",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:07:58.312209",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328479621",
+    "content": "El precio del iPhone 14 es $999 según la información proporcionada en el contexto.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:07:59.621924",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:07:59.621906",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "¿Cuál es el precio del iPhone 14?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328503120",
+    "content": "¿Cuántos MacBook Pro hay en stock?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:08:23.120333",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:08:23.120317",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328503845",
+    "content": "Según la información proporcionada en el contexto, hay 8 MacBook Pro en stock.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:08:23.845941",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:08:23.845921",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "¿Cuántos MacBook Pro hay en stock?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328522309",
+    "content": "¿Qué productos son de la categoría Accesorios?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:08:42.309546",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:08:42.309522",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328523386",
+    "content": "Según la información proporcionada en el contexto, los productos de la categoría \"Accesorios\" son:\n- AirPods Pro\n- Sony WH-1000XM4",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:08:43.386279",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:08:43.386223",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "¿Qué productos son de la categoría Accesorios?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328606285",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:10:06.285601",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:10:06.285553",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328607934",
+    "content": "Entendido, estoy funcionando correctamente y listo para continuar la conversación.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:10:07.934984",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:10:07.934957",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "health check"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328685188",
+    "content": "hola segun el archivo XLSX que te subi cual es el precio del modelo E6 Play ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:11:25.188190",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:11:25.188174",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328736736",
+    "content": "que archvos tienes a tu disposicion ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:12:16.736013",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:12:16.735989",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328737826",
+    "content": "Según la información proporcionada en los archivos XLSX disponibles, no encuentro el precio del modelo E6 Play. Los archivos contienen información sobre otros modelos Motorola, pero no incluyen datos específicos sobre el E6 Play.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:12:17.826574",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:12:17.826551",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "que archvos tienes a tu disposicion ?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328769896",
+    "content": "y del E32?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:12:49.896216",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:12:49.896194",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328770805",
+    "content": "Según la información proporcionada en los archivos XLSX, el precio del modelo Motorola E32 es $1400.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:12:50.805551",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:12:50.805526",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "y del E32?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328796929",
+    "content": "E6 Plus ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:13:16.929153",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:13:16.929127",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328798351",
+    "content": "Según la información proporcionada en los archivos XLSX, el precio del modelo Motorola E6 Plus es $1300.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:13:18.351073",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:13:18.351050",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "E6 Plus ?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328842251",
+    "content": "E6 Play ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:14:02.251401",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:14:02.251367",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328843218",
+    "content": "Según la información proporcionada en los archivos XLSX, el precio del modelo Motorola E6 Play es $1300.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:14:03.218866",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:14:03.218842",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "E6 Play ?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328878108",
+    "content": "y por que hace rato me dijiste que no tienias el precio?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:14:38.108033",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:14:38.108004",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328936480",
+    "content": "cuantos modelos de motorola tenemos registrados?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:15:36.480123",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:15:36.480096",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328937707",
+    "content": "Según la información proporcionada en los archivos XLSX, hay 3 modelos de Motorola registrados: G20 Xt2821-1, G Power 2022 y G8 Xt 2045.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:15:37.707275",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:15:37.707246",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cuantos modelos de motorola tenemos registrados?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328975960",
+    "content": "me refiero a toda la lista",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:16:15.960333",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:16:15.960308",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751328977013",
+    "content": "Según la información proporcionada en los archivos XLSX, hay 3 modelos de Motorola registrados: E40 Xt2159-3, E6 Xt2005-3 y One Xt1941.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:16:17.013700",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:16:17.013677",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "me refiero a toda la lista"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751329157142",
+    "content": "son mas revisa bien",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:19:17.142662",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:19:17.142641",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751329158562",
+    "content": "Según la información proporcionada en los archivos XLSX, hay 3 modelos de Motorola registrados:\n1. E5 Play Go Xt1920\n2. G Play 2021 Xt2093\n3. E6 Xt2005-3",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:19:18.562824",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:19:18.562804",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "son mas revisa bien"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751329202821",
+    "content": "y donde esta el 32 que me diiste ahorita a ver ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T17:20:02.821035",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T17:20:02.820996",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751333292750",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T18:28:12.750489",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T18:28:12.750214",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751333294384",
+    "content": "Entendido, estoy funcionando correctamente y listo para continuar la conversación.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T18:28:14.384614",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T18:28:14.384585",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "health check"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751333812540",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T18:36:52.540276",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T18:36:52.540186",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751333813385",
+    "content": "Confirmo que me encuentro funcionando correctamente y estoy listo para continuar la conversación.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T18:36:53.385207",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T18:36:53.385160",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "health check"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751334212670",
+    "content": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi",
+    "type": "conversation",
+    "timestamp": "2025-06-30T18:43:32.670174",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T18:43:32.670155",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751334214196",
+    "content": "Según la información proporcionada en los archivos XLSX, la última vez que se atendió a Bibiana Duarte Duarte fue el 2025-04-25 00:00:00.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T18:43:34.196672",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T18:43:34.196615",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751334277396",
+    "content": "revisalo nuevamente.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T18:44:37.396992",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T18:44:37.396970",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751334278548",
+    "content": "Revisando nuevamente la información proporcionada en los archivos XLSX, la última vez que se atendió a Bibiana Duarte Duarte fue el 2025-03-14 00:00:00.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T18:44:38.548901",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T18:44:38.548876",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "revisalo nuevamente."
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751336107519",
+    "content": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T19:15:07.519212",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T19:15:07.519157",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751336110150",
+    "content": "Según la información proporcionada en los archivos XLSX, la última vez que se atendió a Bibiana Duarte Duarte fue el 2025-03-14 00:00:00.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T19:15:10.150382",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T19:15:10.150359",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751336161128",
+    "content": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi, revisa con cuidado",
+    "type": "conversation",
+    "timestamp": "2025-06-30T19:16:01.128902",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T19:16:01.128873",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751336162889",
+    "content": "Según la información proporcionada en los archivos XLSX, la última vez que se atendió a Bibiana Duarte Duarte fue el 2025-03-22 00:00:00.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T19:16:02.889163",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T19:16:02.889145",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi, revisa con cuidado"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348393523",
+    "content": "que pasientes son los que tienen mas de 20 dias sin atenderse segun  el archivo ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:39:53.523766",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:39:53.523523",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348395010",
+    "content": "Según la información proporcionada en los archivos XLSX, no encuentro pacientes que tengan más de 20 días sin atenderse. Los datos disponibles no incluyen esa información.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:39:55.010103",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:39:55.010078",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "que pasientes son los que tienen mas de 20 dias sin atenderse segun  el archivo ?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348423177",
+    "content": "lee el archivo xlsx que te subi y entiendelo",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:40:23.177273",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:40:23.177223",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348424733",
+    "content": "Según la información proporcionada en los archivos XLSX, no encuentro pacientes que tengan más de 20 días sin atenderse. Los datos disponibles no incluyen esa información.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:40:24.733113",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:40:24.733084",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "lee el archivo xlsx que te subi y entiendelo"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348439248",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:40:39.248123",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:40:39.248085",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348440763",
+    "content": "Entendido, revisaré nuevamente la información proporcionada en los archivos XLSX.\n\nSegún los datos en los archivos XLSX, no encuentro información sobre pacientes que tengan más de 20 días sin atenderse. Los registros no incluyen esa información.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:40:40.763613",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:40:40.763588",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "health check"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348527785",
+    "content": "quien fue marco aurelio?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:42:07.785537",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:42:07.785492",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348562665",
+    "content": "dame 5 enseñansas importantes de marco aurelio",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:42:42.665995",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:42:42.665973",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348564854",
+    "content": "Desafortunadamente, los archivos proporcionados no contienen información detallada sobre enseñanzas importantes de Marco Aurelio. Los documentos se enfocan principalmente en la obra \"Meditaciones\" y su contexto, pero no se extraen 5 enseñanzas específicas de Marco Aurelio. Con la información disponible, no puedo dar una respuesta completa a esa pregunta.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:42:44.854419",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:42:44.854396",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "dame 5 enseñansas importantes de marco aurelio"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348596523",
+    "content": "crealas a partir de su contenido haz semantica de su analisis",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:43:16.523069",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:43:16.523049",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348644692",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:44:04.692318",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:44:04.692207",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348645890",
+    "content": "Entendido, revisaré nuevamente la información proporcionada en el contexto para responder.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:44:05.890370",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:44:05.890334",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "health check"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348701594",
+    "content": "cambbiando de tema oye quiero saber que precio tiene el modelo e32 del archivo motorola",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:45:01.594382",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:45:01.594360",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348703082",
+    "content": "Según la información proporcionada en los archivos XLSX, no encuentro datos sobre el precio del modelo Motorola E32. Los documentos no contienen información sobre ese modelo específico.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:45:03.082872",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:45:03.082837",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cambbiando de tema oye quiero saber que precio tiene el modelo e32 del archivo motorola"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348747669",
+    "content": "revisa bien el el que se llama Motorola.xlsx",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:45:47.669247",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:45:47.669227",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751348750272",
+    "content": "Según la información proporcionada en los archivos XLSX, no encuentro datos sobre el precio del modelo Motorola E32. Los documentos no contienen información sobre ese modelo específico.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T22:45:50.272032",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T22:45:50.272014",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "revisa bien el el que se llama Motorola.xlsx"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751351765698",
+    "content": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi xlsx?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T23:36:05.698042",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T23:36:05.697980",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751351766900",
+    "content": "Según la información proporcionada en los documentos, la última vez que se atendió a Bibiana Duarte Duarte fue el 2025-03-22 00:00:00.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T23:36:06.900832",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T23:36:06.900812",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi xlsx?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751352095106",
+    "content": "cual es el numero de Bibiana Duarte Duarte",
+    "type": "conversation",
+    "timestamp": "2025-06-30T23:41:35.106393",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T23:41:35.106308",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751352096033",
+    "content": "Según la información proporcionada en los documentos, el número de Bibiana Duarte Duarte es 686 367 2354.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T23:41:36.033679",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T23:41:36.033660",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cual es el numero de Bibiana Duarte Duarte"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751352763279",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-06-30T23:52:43.279610",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T23:52:43.279577",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751352764237",
+    "content": "De acuerdo, utilizaré únicamente la información proporcionada en el contexto anterior.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T23:52:44.237284",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T23:52:44.237249",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "health check"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751352904173",
+    "content": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi",
+    "type": "conversation",
+    "timestamp": "2025-06-30T23:55:04.173882",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T23:55:04.173866",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751352905530",
+    "content": "Según la información proporcionada en los documentos, la última vez que se atendió a Bibiana Duarte Duarte fue el 2025-03-22 00:00:00.",
+    "type": "conversation",
+    "timestamp": "2025-06-30T23:55:05.530063",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T23:55:05.530040",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751352977652",
+    "content": "EN QUE LIENA Y COLUMNA ENCONTRASTE ESA INFORMACION ?",
+    "type": "conversation",
+    "timestamp": "2025-06-30T23:56:17.652213",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-06-30T23:56:17.652194",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751353504366",
+    "content": "¿Cuál es el precio del Motorola E32?",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:05:04.366214",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:05:04.366141",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751353506112",
+    "content": "Según la información proporcionada en los documentos, no se menciona nada sobre el precio de un Motorola E32. No encuentro esa información en los documentos disponibles.",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:05:06.112545",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:05:06.112527",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "¿Cuál es el precio del Motorola E32?"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751353674471",
+    "content": "¿Cuál es el precio del Motorola E32?",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:07:54.471514",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:07:54.471496",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751353731339",
+    "content": "¿Cuál es el precio del Motorola E32?",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:08:51.339971",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:08:51.339956",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751353746304",
+    "content": "¿Cuál es el precio del Motorola E32?",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:09:06.304549",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:09:06.304508",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751354204200",
+    "content": "¿Cuál es el precio del Motorola E32?",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:16:44.200980",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:16:44.200965",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751354728072",
+    "content": "¿Cuál es el precio del Motorola E32?",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:25:28.072538",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:25:28.072509",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751356303327",
+    "content": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:51:43.327293",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:51:43.327250",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751356304374",
+    "content": "Según la información proporcionada en los documentos, la última vez que se atendió a Bibiana Duarte Duarte fue el 2025-04-25 00:00:00.",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:51:44.374750",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:51:44.374705",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751356393616",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-07-01T00:53:13.616158",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T00:53:13.616123",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751356933676",
+    "content": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi",
+    "type": "conversation",
+    "timestamp": "2025-07-01T01:02:13.676953",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T01:02:13.676878",
+      "user_message": true
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751356935124",
+    "content": "Según la información proporcionada en los documentos, la última vez que se atendió a Bibiana Duarte Duarte fue el 2025-04-25 00:00:00.",
+    "type": "conversation",
+    "timestamp": "2025-07-01T01:02:15.124468",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T01:02:15.124441",
+      "provider": "anthropic",
+      "assistant_response": true,
+      "user_message": "cuando fue la ultima vez que se atendio Bibiana duarte duarte segun el archivo que te subi"
+    },
+    "processed": false
+  },
+  {
+    "id": "conversation_1751356985448",
+    "content": "health check",
+    "type": "conversation",
+    "timestamp": "2025-07-01T01:03:05.448927",
+    "confidence": 0.1,
+    "suggested_category": "personal",
+    "metadata": {
+      "timestamp": "2025-07-01T01:03:05.448848",
+      "user_message": true
+    },
+    "processed": false
+  }
+]
